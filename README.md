@@ -1,36 +1,26 @@
-# LabenuSystem5
+# Repo da API do projeto Backend de um sistema de cadastro escolar.
 
-[Documentação para a API](https://documenter.getpostman.com/view/22376211/2s8Z6zyr78)
+:green_book: [Documentação para a API](https://documenter.getpostman.com/view/22376211/2s8Z6zyr78)
 
-[Link Render](https://labenusystem5.onrender.com)
+:satellite: [Link deploy Render](https://labenusystem5.onrender.com)
 
----
+## Dependências:
+- Express
+- Cors
+- dotenv
+- Knex
+- MySQL
+- Typescript
 
-### Prints Workbench
-
-<div style="width: 100%">
-
-  <img src="https://user-images.githubusercontent.com/65736872/210151201-734c0dd4-3c1b-4eb1-8bdc-0e26d9a8700e.png" style="width: 130px;"/>
-
-  <img src="https://user-images.githubusercontent.com/65736872/211178576-27931cd8-244f-41e0-9dbc-b05480f3ae7f.png" style="width: 250px;"/>
-  
-  <img src="https://user-images.githubusercontent.com/65736872/211178614-8292aacd-fa8f-40d4-9f36-9d32b9eb1eb2.png" style="width: 200px;"/>
-  
-  <img src="https://user-images.githubusercontent.com/65736872/210151210-46d59505-8ef7-4555-beee-75bf592b09d6.png" style="width: 270px;"/>
-  
-  <img src="https://user-images.githubusercontent.com/65736872/210151212-7b2e6104-c068-468c-993f-a8a05a5a6e8f.png" style="width: 270px;"/>
-  
-  <img src="https://user-images.githubusercontent.com/65736872/210151213-fa586e7b-5329-42e1-9cdf-1f7cc6eb3685.png" style="width: 160px;"/>
-  
-  <img src="https://user-images.githubusercontent.com/65736872/210151217-e27aa957-5bf3-46fa-8232-a98cfb7ac044.png" style="width: 180px;"/>
-  
-  <img src="https://user-images.githubusercontent.com/65736872/210151220-a7502c6d-5afd-45cc-ac9b-074b307622e8.png" style="width: 170px;"/>
-
-
-</div>
-
-<br>
+## Endpoints disponiveis:
+- Adicionar nova turma
+- Adicionar estudante ou professor
+- Buscar todos os estudantes ou professores de uma determinada turma
+- Buscar estudantes com um determinado hobby
+- Buscar a idade do estudante especificado
+- Buscar um determinado estudante, professor ou turma
+- Alterar turma do estudante ou professor
+- Alterar o módulo de uma turma
 
 ---
-
 💻 Desenvolvido por Rafael Castro
